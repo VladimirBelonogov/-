@@ -230,7 +230,7 @@ body {
     position: absolute;
     top: -149px;
     left: -697px;
-    background-image: url(/img/info/background.jpg);
+    background-image: url(img/info/background.jpg);
     background-repeat: no-repeat;
     width: 1705px;
     height: 1705px;
@@ -465,7 +465,7 @@ body {
 
 .buckground::before{
     content:'';
-    background-image: url(/img/result/background.png);
+    background-image: url(img/result/background.png);
     background-repeat: no-repeat;
     position: absolute;
     width: 2739px;
